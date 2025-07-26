@@ -1,0 +1,62 @@
+[
+  {
+    "nombre": "Carlos González Martínez",
+    "camara": "Senado",
+    "partido": "Partido Avanzar",
+    "region": "Atlántico",
+    "puntaje_ia": 82,
+    "asistencia": 92,
+    "proyectos_presentados": 24,
+    "proyectos_aprobados": 9,
+    "intervenciones": 46,
+    "coherencia_votacion": 87,
+    "influencias": "3 proyectos clave como ponente",
+    "sanciones": "Sin sanciones",
+    "procesos": [
+      {
+        "tipo": "Corte Suprema",
+        "motivo": "Tráfico de influencias",
+        "estado": "En curso",
+        "año": 2023
+      }
+    ],
+    "vinculos_familiares": [
+      "Hijo del exsenador Manuel González (condenado en 2014 por parapolítica)",
+      "Miembro del clan político González en la región Caribe"
+    ]
+  },
+  {
+    "nombre": "Laura Mejía Torres",
+    "camara": "Cámara",
+    "partido": "Coalición Ciudadana",
+    "region": "Antioquia",
+    "puntaje_ia": 91,
+    "asistencia": 98,
+    "proyectos_presentados": 35,
+    "proyectos_aprobados": 18,
+    "intervenciones": 62,
+    "coherencia_votacion": 95,
+    "influencias": "Presidenta de Comisión Primera",
+    "sanciones": "Sin sanciones",
+    "procesos": [],
+    "vinculos_familiares": []
+  },
+  {
+    "nombre": "Luis Herrera Silva",
+    "camara": "Senado",
+    "partido": "Unidad Nacional",
+    "region": "Cundinamarca",
+    "puntaje_ia": 58,
+    "asistencia": 60,
+    "proyectos_presentados": 10,
+    "proyectos_aprobados": 2,
+    "intervenciones": 20,
+    "coherencia_votacion": 50,
+    "influencias": "Sin roles clave",
+    "sanciones": "Sanción disciplinaria leve en 2022 (ausencia injustificada)",
+    "procesos": [],
+    "vinculos_familiares": [
+      "Cuñado del exgobernador Pedro Silva (implicado en caso de contratos irregulares)"
+    ]
+  }
+]
